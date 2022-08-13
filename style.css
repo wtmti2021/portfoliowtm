@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(198, 232, 232);
+  color:black
+}
+
+header {
+  background-color: rgba(0, 132, 255, 0.615);
+  color: black;
+}
